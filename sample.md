@@ -1,5 +1,5 @@
 # SAMPLECODE
-`func(arg)``
+`func(arg)`
 
 | argName | CLASS | desc |
 | ---- | :---: | ---- |
