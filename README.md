@@ -6,5 +6,7 @@
 
 
 著者の環境
-KubeJS: 1.20.1(2001.6.5-build.16)
-OS: Linux
+
+`KubeJS: 1.20.1(2001.6.5-build.16)`
+
+`OS: Linux`
