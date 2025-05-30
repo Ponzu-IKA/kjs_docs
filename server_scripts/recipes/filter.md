@@ -28,7 +28,7 @@ event.remove({input: "#forge:ingots/iron"})
 event.remove({ output: "stone_pickaxe" })
 
 //色を作るレシピを消す
-event.remove({ output: "#minecraft:dyes" }) 
+event.remove({ output: "#forge:dyes" }) 
 
 //Mekanismから全レシピを消去
 event.remove({ mod: "mekanism" })
